@@ -8,12 +8,7 @@ This repository contains hands-on projects and experiments in offensive and defe
 ## 📑 Index
 
 - [Introduction](#introduction)
-- [Penetration Testing](#penetration-testing)
-- [Vulnerability Analysis](#vulnerability-analysis)
-- [Cryptography](#cryptography)
-- [Network Security](#network-security)
-- [Malware Analysis](#malware-analysis)
-- [Resources](#resources)
+- [Proyecto: Kali Linux - Taller de Tecnologías](projects/taller-tecnologias-kali/README.md)
 
 ---
 
