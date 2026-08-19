@@ -4,7 +4,7 @@ Cybersecurity projects and experiments focused on penetration testing, vulnerabi
 
 ---
 
-## 📁 Projects
+## Projects
 
 ### Kali Linux Security Assessment Lab
 
@@ -22,11 +22,11 @@ Cybersecurity projects and experiments focused on penetration testing, vulnerabi
 - Practical experience with common penetration-testing tools
 - How technical vulnerabilities and human factors can both become attack vectors
 
-[View full project →](/mati-cell/mati-cell-security-journey/tree/main/projects/taller-tecnologias-kali)
+[View full project](/mati-cell/mati-cell-security-journey/tree/main/projects/taller-tecnologias-kali)
 
 ---
 
-## 📝 About this repo
+## About this repo
 
 This repository documents hands-on cybersecurity projects and lab work. Currently focused on practical assessments and configurations using industry-standard tools.
 
@@ -34,4 +34,4 @@ This repository documents hands-on cybersecurity projects and lab work. Currentl
 
 ---
 
-*⭐️ This repo is a work-in-progress. More projects will be added as I continue my cybersecurity journey.*
+*⭐ This repo is a work-in-progress. More projects will be added as I continue my cybersecurity journey.*
