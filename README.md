@@ -1,34 +1,37 @@
-# 🛡️ Cybersecurity Projects Repository
+# mati-cell-security-journey
 
-Welcome to my cybersecurity journey!  
-This repository contains hands-on projects and experiments in offensive and defensive security.
-
----
-
-## 📑 Index
-
-- [Introduction](#introduction)
-- [Proyecto: Kali Linux - Taller de Tecnologías](projects/taller-tecnologias-kali/README.md)
+Cybersecurity projects and experiments focused on penetration testing, vulnerability analysis, and defensive strategies.
 
 ---
 
-## Introduction
-Brief overview of the repository, goals, and learning objectives.
+## 📁 Projects
 
-## Penetration Testing
-Projects related to ethical hacking, simulated attacks, and exploitation techniques.
+### Kali Linux Security Assessment Lab
 
-## Vulnerability Analysis
-Scripts and labs for scanning, identifying, and mitigating vulnerabilities.
+**University project** — Configured a Kali Linux virtual machine to perform controlled security assessments and simulate common attack scenarios in an isolated environment.
 
-## Cryptography
-Implementations of encryption, hashing, and secure communication protocols.
+**Key components:**
+- Network reconnaissance and SSH password attacks using Nmap and Hydra
+- Social engineering and phishing simulation using SET (Social-Engineer Toolkit)
+- Isolated setup using VirtualBox with Bridged Networking
 
-## Network Security
-Experiments with firewalls, IDS/IPS, and secure network configurations.
+**Tools used:** Nmap, Hydra, SET, VirtualBox, Debian 12 target machine
 
-## Malware Analysis
-Safe labs for reverse engineering and studying malicious code behavior.
+**What I learned:**
+- Effective security testing starts with reconnaissance and information gathering
+- Practical experience with common penetration-testing tools
+- How technical vulnerabilities and human factors can both become attack vectors
 
-## Resources
-Links to documentation, cheat sheets, and external references.
+[View full project →](/mati-cell/mati-cell-security-journey/tree/main/projects/taller-tecnologias-kali)
+
+---
+
+## 📝 About this repo
+
+This repository documents hands-on cybersecurity projects and lab work. Currently focused on practical assessments and configurations using industry-standard tools.
+
+*Connect via LinkedIn or check out the project above for detailed documentation.*
+
+---
+
+*⭐️ This repo is a work-in-progress. More projects will be added as I continue my cybersecurity journey.*
